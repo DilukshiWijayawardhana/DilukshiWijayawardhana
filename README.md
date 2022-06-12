@@ -4,7 +4,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning everything.
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 📫 How to reach me : DilukshiWijayawardhana1014@gmail.com
+- 📫 How to reach me : DilukshiWijayawardhana1017@gmail.com
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/101212054/173209844-444069a7-90af-4196-820e-e5e3574a3fe3.gif"/>
