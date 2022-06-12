@@ -1,9 +1,14 @@
+
 ### 👋 Hi, I’m Dilukshi Wijayawardhana
 - 🎓 I'm Software Engineering Undergraduate at Sri Lanka Institute of Information Technology(SLIIT).
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning everything.
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 📫 How to reach me : DilukshiWijayawardhana1014@gmail.com
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/101212054/173209844-444069a7-90af-4196-820e-e5e3574a3fe3.gif"/>
+</p>
 
 ### 🛠 &nbsp; Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
