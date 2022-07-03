@@ -26,9 +26,7 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android)<br/><br/>
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-
 <img src="https://user-images.githubusercontent.com/101212054/177030168-171e9747-c5d8-4c02-9934-91d2b0ab77c3.png" width = "70" height = "20"  align="left"><br><br>
-
 
   <p align="center">
   <a href="https://github.com/DilukshiWijayawardhana">
