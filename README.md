@@ -26,7 +26,7 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android)<br/><br/>
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-![jetbrains_pycharm_button_icon_151876](https://user-images.githubusercontent.com/101212054/177030168-171e9747-c5d8-4c02-9934-91d2b0ab77c3.png | width = 20)
+![jetbrains_pycharm_button_icon_151876](https://user-images.githubusercontent.com/101212054/177030168-171e9747-c5d8-4c02-9934-91d2b0ab77c3.png)
 
 
   <p align="center">
