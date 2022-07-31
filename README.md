@@ -5,10 +5,8 @@
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 📫 How to reach me : DilukshiWijayawardhana1017@gmail.com
 
-<p align="left">
-<img src="https://user-images.githubusercontent.com/101212054/173209844-444069a7-90af-4196-820e-e5e3574a3fe3.gif"/>
-</p>
-
+<dev>
+  
 ### 🛠 &nbsp; Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -26,14 +24,19 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android)<br/><br/>
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-<img src="https://user-images.githubusercontent.com/101212054/177030168-171e9747-c5d8-4c02-9934-91d2b0ab77c3.png" width = "70" height = "20"  align="left"><br><br>
-
-  <p align="center">
+<img src="https://user-images.githubusercontent.com/101212054/177030168-171e9747-c5d8-4c02-9934-91d2b0ab77c3.png" width = "70" height = "20"  align="left">  
+  
+<p align="right">
+<img src="https://user-images.githubusercontent.com/101212054/173209844-444069a7-90af-4196-820e-e5e3574a3fe3.gif"/>
+</p>
+</dev>
+  
+<dev align="center">
   <a href="https://github.com/DilukshiWijayawardhana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilukshiWijayawardhana&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="Dilukshi's github stats""/><br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilukshiWijayawardhana&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="Dilukshi's github stats""/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilukshiWijayawardhana&layout=compact&langs_count=8&theme=light"/>
 </a>
-</p>
+</dev>
 
 ---
 
