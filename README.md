@@ -26,9 +26,9 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 <img src="https://user-images.githubusercontent.com/101212054/177030168-171e9747-c5d8-4c02-9934-91d2b0ab77c3.png" width = "70" height = "20"  align="left">  
   
- ## 🌐 Socials:
+ ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dilukshi-wijayawardhana-05725423a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmYHd0NhDQYWML8HfUrTIzA%3D%3D)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dilukshi-wijayawardhana-05725423a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmYHd0NhDQYWML8HfUrTIzA%3D%3D)  <br><br>
  
 <p align="left">
 <img src="https://user-images.githubusercontent.com/101212054/173209844-444069a7-90af-4196-820e-e5e3574a3fe3.gif"/>
