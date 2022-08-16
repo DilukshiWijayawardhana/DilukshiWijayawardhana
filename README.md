@@ -37,13 +37,13 @@
   
 <dev align="center">
   <a href="https://github.com/DilukshiWijayawardhana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilukshiWijayawardhana&show_icons=true&theme=jolly&include_all_commits=true&count_private=true" alt="Dilukshi's github stats""/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilukshiWijayawardhana&layout=compact&langs_count=8&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilukshiWijayawardhana&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="Dilukshi's github stats""/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilukshiWijayawardhana&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
 </dev>
 
 <!--
 [![Dilukshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=DilukshiWijayawardhana&theme=cottoncandy)](https://github.com/DilukshiWijayawardhana) -->
 ---
-[![Dilukshi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=DilukshiWijayawardhana&custom_title=Dilukshi Wijayawardhana's%20Contribution%20Graph&theme=synthwave&bg_color=301934&hide_border=true&line=d1a01f&point=c58545)](https://github.com/DilukshiWijayawardhana)
+[![Dilukshi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=DilukshiWijayawardhana&custom_title=Dilukshi%20Wijayawardhana's%20Contribution%20Graph&theme=synthwave&bg_color=301934&hide_border=true&line=AA336A&point=c58545)](https://github.com/DilukshiWijayawardhana)
 
