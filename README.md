@@ -45,5 +45,5 @@
 <!--
 [![Dilukshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=DilukshiWijayawardhana&theme=cottoncandy)](https://github.com/DilukshiWijayawardhana) -->
 ---
-[![Dilukshi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=DilukshiWijayawardhana&custom_title=Dilukshi%20Wijayawardhana's%20Contribution%20Graph&theme=synthwave&bg_color=301934&hide_border=true&line=AA336A&point=ff7b72)](https://github.com/DilukshiWijayawardhana)
+[![Dilukshi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=DilukshiWijayawardhana&custom_title=Dilukshi%20Wijayawardhana's%20Contribution%20Graph&theme=synthwave&bg_color=301934&hide_border=true&line=FF1493&point=F541B7)](https://github.com/DilukshiWijayawardhana)
 
