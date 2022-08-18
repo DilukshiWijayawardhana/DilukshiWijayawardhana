@@ -37,7 +37,7 @@
   
 <dev align="center">
   <a href="https://github.com/DilukshiWijayawardhana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilukshiWijayawardhana&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="Dilukshi's github stats""/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilukshiWijayawardhana&layout=compact&langs_count=8&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilukshiWijayawardhana&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="Dilukshi's github stats""/> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilukshiWijayawardhana&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
 </dev>
 
