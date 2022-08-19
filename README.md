@@ -24,11 +24,18 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=android)<br/><br/>
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-<img src="https://user-images.githubusercontent.com/101212054/177030168-171e9747-c5d8-4c02-9934-91d2b0ab77c3.png" width = "70" height = "20"  align="left">  
-  
+<br><br>
+<img src="https://user-images.githubusercontent.com/101212054/177030168-171e9747-c5d8-4c02-9934-91d2b0ab77c3.png" width = "70" height = "20"  align="left">
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" width = "70" height = "20"  align="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width = "70" height = "20"  align="left">
+
+
+<br><br>
  ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dsw_art99/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dilukshi-wijayawardhana-05725423a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmYHd0NhDQYWML8HfUrTIzA%3D%3D)  <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dilukshi-wijayawardhana-05725423a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmYHd0NhDQYWML8HfUrTIzA%3D%3D)
+
+<br><br>
  
 <p align="left">
 <img src="https://user-images.githubusercontent.com/101212054/173209844-444069a7-90af-4196-820e-e5e3574a3fe3.gif"/>
@@ -43,6 +50,10 @@
 
 <!--
 [![Dilukshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=DilukshiWijayawardhana&theme=cottoncandy)](https://github.com/DilukshiWijayawardhana) -->
+---
+
+<!--
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white )](DilukshiWijayawardhana1017@gmail.com) -->
 ---
 [![Dilukshi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=DilukshiWijayawardhana&custom_title=Dilukshi%20Wijayawardhana's%20Contribution%20Graph&theme=synthwave&bg_color=301934&hide_border=true&line=FF1493&point=F541B7)](https://github.com/DilukshiWijayawardhana)
 
