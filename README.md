@@ -1,4 +1,4 @@
-<!-- ### 👋 Hi, I’m Dilukshi Wijayawardhana
+👋 Hi, I’m Dilukshi Wijayawardhana
 - 🎓 I'm Software Engineering Undergraduate at Sri Lanka Institute of Information Technology(SLIIT).
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning everything.
