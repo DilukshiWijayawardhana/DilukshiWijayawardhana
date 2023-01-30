@@ -1,4 +1,4 @@
-👋 Hi, I’m Dilukshi Wijayawardhana
+<!-- 👋 Hi, I’m Dilukshi Wijayawardhana
 - 🎓 I'm Software Engineering Undergraduate at Sri Lanka Institute of Information Technology(SLIIT).
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning everything.
@@ -46,7 +46,7 @@
   <a href="https://github.com/DilukshiWijayawardhana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilukshiWijayawardhana&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="Dilukshi's github stats"" width = "425"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilukshiWijayawardhana&layout=compact&langs_count=8&theme=synthwave" width = "425"/>
 </a>
-</dev> -->
+</dev> --> 
 
 <!--
 [![Dilukshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=DilukshiWijayawardhana&theme=cottoncandy)](https://github.com/DilukshiWijayawardhana) -->
